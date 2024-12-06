@@ -15,20 +15,13 @@ img{
     height: 50px;
 }
 .hm{
-   background-color: black;
+   
     display: inline-block;
     color: white;
     width: 70px;
     height: 30px;
    text-align: center;
    padding-top: 20px;
-}
-
-
-.hm ,.tpg:hover{
-    background-color:#b469ff;
-    cursor: pointer;
-    text-decoration: underline;
 }
 
 .tpg{
@@ -41,3 +34,9 @@ img{
    padding-top: 20px;
 }
 
+.dv :hover{
+    background-color: #9a36ff;
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
